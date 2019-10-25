@@ -28,7 +28,7 @@ Digital Marketing/Hotel Metrics Glossary:
 •	Impression:  a single instance of an online advertisement being displayed. The impression shows how often a page, a teaser or a banner was displayed.
 
 •	Click: The action of clicking on an ad.
-•	Ad Spend:
+•	Ad Spend: The amount of dollars spent for placing ads with partners.
 •	CPM: Cost per thousand Impressions.
 •	CR (Conversion Rate): The rate at which user that clicked on a banner and then completed the predefined goal. Calculation: Conversions/Clicks
 •	CTR (Click-Through-Rate): A metric showing how often people click on an ad or search result after they see it. Calculation: Clicks/Impressions
