@@ -2,20 +2,21 @@
 
 TEAM ROI – Final Project Berkeley
 
+
 Objectives:
 
-1)	Improve current forecasting methods (linear regression, historical performance and manual touches based on industry and business knowledge). New process is to rely on machine learning to define the best forecasting model and improve accuracy.
+1)	Improve current forecasting methods (linear regression, historical performance and manual touches, based upon industry and business knowledge). New process is to rely on machine learning to define the best forecasting model and improve predictive accuracy.
 
-2)	Forecast the Revenue contribution of individuals sites based on their previous performance. 
+2)	Forecast the Revenue contribution of individual sites, based upon their previous performance. 
 
 Premises: 
-•	Ad spend is pre-defined as a proposal of overall spend and is given to the analysts by media planners.
-•	CPM is also a manual input that is informed by Media Planners, which is the rate pre-negotiated with partners that will run media.
+•	Ad spend is pre-defined as a proposal of overall spend and is given to the analysts by media planners within the creative agency.
+•	CPM is also a manual input that is informed by Media Planners; it is the rate which is pre-negotiated with partners who will run media.
 
 
 To be forecasted:
 1)	Revenue.
-a.	Once Revenue is forecasted, the other conversions forecast will follow, such as Reservations, Room Nights and ROI. Room nights can be defined based on either another model or just based on historical Average Daily Rate and Reservations can be then forecasted based on historical Length of Stay.
+a.	Once Revenue is forecasted, the other conversion forecasts will follow, such as Reservations, Room Nights and ROI. Room nights can be defined based upon either another model, or just based upon historical Average Daily Rate. Reservations can then be forecasted based upon historical Length of Stay.
 2)	With the Revenue forecasted, we will be able to calculate the projected efficiency metric (ROI or E/R)
 
 
