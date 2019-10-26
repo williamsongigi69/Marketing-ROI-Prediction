@@ -38,4 +38,3 @@ Digital Marketing/Hotel Metrics Glossary:
 •	ADR: Average Daily Rate of the rooms purchased.
 •	LoS: Length of stay (average number of nights across all sales)
 •	CPRN: Cost/Room night. Another industry KPI, but it is irrelevant for this project.
-
